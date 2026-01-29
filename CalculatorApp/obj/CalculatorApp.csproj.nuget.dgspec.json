@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\demo_net\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj": {}
+    "D:\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\demo_net\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj": {
+    "D:\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\demo_net\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj",
+        "projectUniqueName": "D:\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj",
         "projectName": "CalculatorApp",
-        "projectPath": "C:\\Users\\hp\\Desktop\\demo_net\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\demo_net\\demo_dotnet\\CalculatorApp\\obj\\",
+        "projectPath": "D:\\demo_dotnet\\CalculatorApp\\CalculatorApp.csproj",
+        "packagesPath": "C:\\Users\\karpe\\.nuget\\packages\\",
+        "outputPath": "D:\\demo_dotnet\\CalculatorApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\karpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
