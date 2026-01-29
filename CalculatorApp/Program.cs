@@ -26,7 +26,7 @@ namespace CalculatorApp
                     Console.Write("Enter first number: ");
                     num1 = Convert.ToDouble(Console.ReadLine());
 
-                    Console.Write("Enter second number: ");
+                    Console.Write("Enter 2nd  number: ");
                     num2 = Convert.ToDouble(Console.ReadLine());
 
                     switch (choice)
