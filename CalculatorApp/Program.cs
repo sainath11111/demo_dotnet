@@ -23,7 +23,7 @@ namespace CalculatorApp
 
                 if (choice >= 1 && choice <= 4)
                 {
-                    Console.Write("Enter first number: ");
+                    Console.Write("Enter first nombyerr number: ");
                     num1 = Convert.ToDouble(Console.ReadLine());
 
                     Console.Write("Enter second number: ");
