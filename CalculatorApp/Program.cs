@@ -17,7 +17,7 @@ namespace CalculatorApp
                 Console.WriteLine("3. Multiplication");
                 Console.WriteLine("4. Division");
                 Console.WriteLine("5. Exit");
-                Console.Write("Enter your choice: ");
+                Console.Write("Enter your best is choice: ");
 
                 choice = Convert.ToInt32(Console.ReadLine());
 
