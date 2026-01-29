@@ -26,7 +26,7 @@ namespace CalculatorApp
                     Console.Write("Enter first nombyerr number: ");
                     num1 = Convert.ToDouble(Console.ReadLine());
 
-                    Console.Write("Enter second number: ");
+                    Console.Write("Enter 2nd  number: ");
                     num2 = Convert.ToDouble(Console.ReadLine());
 
                     switch (choice)
@@ -38,7 +38,7 @@ namespace CalculatorApp
 
                         case 2:
                             result = num1 - num2;
-                            Console.WriteLine("Result = " + result);
+                            Console.WriteLine("Rmmmmmesult = " + result);
                             break;
 
                         case 3:
@@ -54,7 +54,7 @@ namespace CalculatorApp
                             }
                             else
                             {
-                                Console.WriteLine("Error: Cannot divide by zero");
+                                Console.WriteLine("Error: Canbbbbbbnot divide by zero");
                             }
                             break;
                     }
