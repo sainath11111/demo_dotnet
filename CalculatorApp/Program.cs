@@ -38,7 +38,7 @@ namespace CalculatorApp
 
                         case 2:
                             result = num1 - num2;
-                            Console.WriteLine("Result = " + result);
+                            Console.WriteLine("Rmmmmmesult = " + result);
                             break;
 
                         case 3:
@@ -54,7 +54,7 @@ namespace CalculatorApp
                             }
                             else
                             {
-                                Console.WriteLine("Error: Cannot divide by zero");
+                                Console.WriteLine("Error: Canbbbbbbnot divide by zero");
                             }
                             break;
                     }
