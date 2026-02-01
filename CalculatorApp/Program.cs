@@ -17,13 +17,13 @@ namespace CalculatorApp
                 Console.WriteLine("3. Multiplication");
                 Console.WriteLine("4. Division");
                 Console.WriteLine("5. Exit");
-                Console.Write("Enter your choice: ");
+                Console.Write("Enter your best is choice: ");
 
                 choice = Convert.ToInt32(Console.ReadLine());
 
                 if (choice >= 1 && choice <= 4)
                 {
-                    Console.Write("Enter first number: ");
+                    Console.Write("Enter first nombyerr number: ");
                     num1 = Convert.ToDouble(Console.ReadLine());
 
                     Console.Write("Enter 2nd  number: ");
@@ -61,7 +61,7 @@ namespace CalculatorApp
                 }
                 else if (choice != 5)
                 {
-                    Console.WriteLine("Invalid choice!");
+                    Console.WriteLine("Invalid choice??????!");
                 }
 
                 Console.WriteLine();
